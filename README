@@ -1,0 +1,21 @@
+GNU External Ballistics Library (libballistics)
+v1.1
+
+What is libballistics?
+----------------------
+
+A C library for numerically solving exerior ballistics problems. The library 
+supports standard drag models (G1-G8) and calculations for most common forms 
+of output. The solution method employs the common "3 degrees of freedom" 
+analysis found in many commercial tools.
+
+Using libballistics
+-------------------
+
+To build libballistics, invoke the following commands:
+
+./configure
+make
+make install
+
+See the file src/example.c for a working example of how to use the library.

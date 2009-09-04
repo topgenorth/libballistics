@@ -1,0 +1,7 @@
+RELEASE NOTES
+
+libballistics_moa2mil() now takes a second argument to specify whether the
+conversion should be based on the USMC mil-dot spec or the Army mil-dot spec.
+You'll see these enumerations in ballistic.h: MilDotUSMC and MilDotArmy.
+
+

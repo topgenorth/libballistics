@@ -1,0 +1,3 @@
+1.0.0	Initial public release
+1.1.0	Added libballistics_dragForModel function 
+	Added milspec enumerator for mil-dot conversion (USMC/Army)
